@@ -3,5 +3,11 @@ p{background-color: lightblue; color: blue;}
 body{
     background-color: lightyellow; 
     background-image: url('https://th.bing.com/th/id/OIP.jpLd-_FFm5nktmj6TtNtHAHaFj?w=246&h=185&c=7&r=0&o=5&pid=1.7');
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+image{
+    width: 100%;
+    height: 100%;
 }
